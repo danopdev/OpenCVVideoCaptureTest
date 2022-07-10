@@ -165,6 +165,7 @@ class MainActivity : AppCompatActivity() {
             details += "Frame width: ${cap.get(CAP_PROP_FRAME_WIDTH)}\n"
             details += "Frame height: ${cap.get(CAP_PROP_FRAME_HEIGHT)}\n"
             details += "Frame count: ${cap.get(CAP_PROP_FRAME_COUNT)}\n"
+            details += "Orientation: ${cap.get(CAP_PROP_ORIENTATION_META)}\n"
 
             val frame = Mat()
             var frameCounter = 0
