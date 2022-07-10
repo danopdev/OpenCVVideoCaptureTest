@@ -10,4 +10,5 @@ Special folders:
 * sample: contains the video I used for my test
 * screenshot: contains the output with the sample video
 
-OpenCV Android SDK: it use the latest official build 4.6.0
+OpenCV Android SDK, branches:
+* opencv_official_4.6.0
