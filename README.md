@@ -11,6 +11,6 @@ Special folders:
 * screenshot: contains the output with the sample video
 
 Results:
-Original code (4.6.0) | Modified code (API 21)
---- | ---
-![](screenshot/opencv_official_4.6.0.png) | ![](screenshot/opencv_modified_api_21.png)
+Original code (4.6.0) | Modified code (API 21) | Modified code (API 28)
+--- | --- | ---
+![](screenshot/opencv_official_4.6.0.png) | ![](screenshot/opencv_modified_api_21.png) | ![](screenshot/opencv_modified_api_28.png)
